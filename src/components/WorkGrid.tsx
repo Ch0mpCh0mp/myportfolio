@@ -1,11 +1,11 @@
 export default function WorkGrid() {
   return (
-    <section id="work">
-      <h2 aria-label="Work">
-        <span className="font-majorMono">W</span>
-        <span className="font-majorMono">O</span>
-        <span className="font-majorMono">R</span>
-        <span className="font-majorMono">K</span>
+    <section id="work" className="min-h-screen bg-navy">
+      <h2 aria-label="Work" className="font-majorMono text-deeppink text-9xl text-center">
+        <span>W</span>
+        <span>O</span>
+        <span>R</span>
+        <span>K</span>
       </h2>
 
       <article>

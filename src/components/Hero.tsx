@@ -11,7 +11,7 @@ export default function Hero() {
           <div id="vertical-line" className="flex-1 h-px border-t-2 border-black mr-2"></div>
 
           <ul className="flex gap-3">
-            <li><a href="https://github.com/Elakoda" target="_blank" rel="noopener noreferrer">GH</a></li>
+            <li><a href="https://github.com/Ch0mpCh0mp" target="_blank" rel="noopener noreferrer">GH</a></li>
             <li><a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">LI</a></li>
           </ul>
 
