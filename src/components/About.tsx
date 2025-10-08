@@ -8,10 +8,10 @@ export default function About() {
       <img
         src="/images/rombild.jpg"
         alt="Me in Rome"
-        className="w-1/2 mx-auto"
+        className="w-1/2 mx-auto lg:w-1/4"
       />
 
-      <div className="mt-12 pl-20 pr-20 text-sm">
+      <div className="mt-12 pl-20 pr-20 text-sm lg:pl-28 lg:pr-28 lg:text-sm space-y-3">
         <p>
           Hi, I'm Elham. A web developer with a passion for aesthetics,
           structure and clarity.

@@ -17,3 +17,16 @@
 .font-poiret {
   font-family: var(--font-poiret);
 }
+
+.work span {
+    display: inline-block;
+    animation: flip 5s infinite;
+    animation-delay: calc(0.4s * var(--i));
+}
+
+@keyframes flip {
+    0%,
+    80% {
+        transform: rotateY(360deg);
+    }
+}
